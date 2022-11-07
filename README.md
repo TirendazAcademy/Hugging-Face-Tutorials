@@ -4,7 +4,7 @@
 
 </div>
 
-In this repo, I'll talk about natural language processing with transformers using Hugging Face framework 🤗. You can find tutorials and notebooks in this repo. Don't forget to star and like this repo.
+In this repo, I'll talk about natural language processing with transformers using the Hugging Face framework 🤗. You can find tutorials and notebooks in this repo. Don't forget to follow us and star this repo.
 
 ## 📌 What is Transformers?
 
