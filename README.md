@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fhuggingface&psig=AOvVaw3VZOCRk9U8FKAywOu2307k&ust=1669879212114000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCR1Pyu1fsCFQAAAAAdAAAAABAW)
+![](https://user-images.githubusercontent.com/55794407/204733431-d3bceacb-3830-410c-bd4c-04fa1173bc39.png)
 
 </div>
 
