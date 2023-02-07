@@ -4,7 +4,7 @@
 
 </div>
 
-Welcome to the Hugging Face tutorials 
+Welcome to Hugging Face tutorials 
 
 Hugging Face is an awesome platform to use and share NLP models. Whether you are an NLP practitioner or researcher, Hugging Face is a must-learn tool for your NLP projects. This repo contains Hugging Face tutorials 🤗. You can find notebooks, blog posts and videos here. Don't forget to follow us and star this repo ✨
 
