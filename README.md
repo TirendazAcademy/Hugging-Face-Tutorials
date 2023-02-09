@@ -67,5 +67,6 @@ You can make predictions with the pipeline API. Pipelines group together a pre-t
 ## My Youtube Videos
 
 - [Getting Started with HuggingFace](https://youtu.be/ir-_Ds_d8k4)
+- [Hugging Face Pipelines](https://youtu.be/z-w4d7K010g)
 
 
