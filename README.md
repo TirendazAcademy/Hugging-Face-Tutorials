@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://user-images.githubusercontent.com/55794407/204733431-d3bceacb-3830-410c-bd4c-04fa1173bc39.png)
+![](https://github.com/TirendazAcademy/Hugging-Face-Tutorials/blob/main/Images/Hugging-Face.png?raw=true)
 
 </div>
 
