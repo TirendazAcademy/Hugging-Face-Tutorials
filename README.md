@@ -64,9 +64,12 @@ You can make predictions with the pipeline API. Pipelines group together a pre-t
 [{'label': 'POSITIVE', 'score': 0.9987786412239075}]
 ```
 
-## My Youtube Videos
+## Youtube Videos
 
 - [Getting Started with HuggingFace](https://youtu.be/ir-_Ds_d8k4)
 - [Hugging Face Pipelines](https://youtu.be/z-w4d7K010g)
 
+## Blog Posts
 
+- [The Hugging Face Ecosystem](https://medium.com/mlearning-ai/the-hugging-face-ecosystem-dab2adf49bea)
+- [How to Use Hugging Face Pipelines](https://medium.com/towards-artificial-intelligence/hugging-face-pipelines-2cce20a8e5f0)
