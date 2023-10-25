@@ -74,3 +74,6 @@ You can make predictions with the pipeline API. Pipelines group together a pre-t
 
 - [The Hugging Face Ecosystem](https://medium.com/mlearning-ai/the-hugging-face-ecosystem-dab2adf49bea)
 - [How to Use Hugging Face Pipelines](https://medium.com/towards-artificial-intelligence/hugging-face-pipelines-2cce20a8e5f0)
+- [Building a Text Classifier App with Hugging Face, BERT, and Comet](https://medium.com/cometheartbeat/building-a-text-classifier-app-with-hugging-face-bert-and-comet-278e4cd0d0aa)
+### Text Classifier App Demo 
+![](https://github.com/TirendazAcademy/Text-Classification-App-with-Transformers/blob/main/gifs/gradio-app-in-comet-dashboard.gif)
