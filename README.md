@@ -69,6 +69,7 @@ You can make predictions with the pipeline API. Pipelines group together a pre-t
 - [Getting Started with HuggingFace](https://youtu.be/ir-_Ds_d8k4)
 - [Hugging Face Pipelines](https://youtu.be/z-w4d7K010g)
 - [Sentiment Analysis with Tranformers](https://youtu.be/OFed5PdDAJI)
+- [Sentiment Analysis with BERT](https://youtu.be/gxekZhXatWI)
 
 ## Blog Posts
 
